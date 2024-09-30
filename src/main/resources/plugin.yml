@@ -1,0 +1,11 @@
+name: AetherisBans
+version: '${project.version}'
+main: br.com.aetherismc.bans.Core
+commands:
+  ban:
+  banip:
+  kick:
+  unban:
+  unbanip:
+  mutar:
+  desmutar:

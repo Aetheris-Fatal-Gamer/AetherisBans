@@ -1,0 +1,13 @@
+version: 1.1
+MySQL:
+  User: ''
+  Password: ''
+  Port: 3306
+  Host: ''
+  Database: ''
+  table: 'server_bans'
+  table-history: 'server_bans_history'
+Settings:
+  Servidor: 'Servidor'
+  BotName: 'Punições'
+  BotLink: ''
